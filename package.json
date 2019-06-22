@@ -15,7 +15,7 @@
     "supertest": "^1.0.0"
   },
   "scripts": {
-      "start": "pm2 start app.js",
-      "stop": "pm2 stop all"
-}
+    "start": "pm2 start app.js",
+    "stop": "pm2 stop all"
+  }
 }
